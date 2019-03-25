@@ -1,0 +1,51 @@
+html,
+body {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background: rgb(255, 241, 44);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+footer,
+header {
+    background: rgb(36, 36, 36);
+    padding: 40px;
+    color: white;
+}
+
+footer {
+    text-align: center;
+}
+
+.git-ref {
+    filter: invert(1);
+    margin-left: 20px;
+}
+
+main {
+    max-width: 800px;
+    margin: auto;
+    padding: 20px;
+}
+
+menu {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+menu a:any-link {
+    display: inline-block;
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+    padding: 5px;
+}
+
+menu a:any-link:hover {
+    color: rgb(36, 36, 36);
+    background: white;
+}
