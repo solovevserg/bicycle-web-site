@@ -5,8 +5,7 @@ body {
 }
 
 body {
-    background: yellow;
-    /* background: rgb(255, 241, 44); */
+    background: rgb(255, 241, 44);
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
